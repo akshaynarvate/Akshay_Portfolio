@@ -8,4 +8,4 @@
  *financial gains* & *efficiency*.
 -*Timely* delivery of *Analysis* more focussed on *client* &
  *business satisfaction*.
-- Transformed business by *creating value* out of data using *analytics*
+- Transformed business by *creating value* out of data using *analytics*.
